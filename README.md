@@ -15,16 +15,62 @@ I❤️☕💻
    🔥 My skills (Ask me about)
 </p>
   <p align="center"> 
-                   
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke.png" alt="java" width="40" height="72" />
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/vertx.png" alt="vert.x" width="40" height="40" />                                                                 <img src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="Quarkus" width="40" height="40" />      
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/jakartaee.png" alt="Jakarta EE" width="44" height="40" />         
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/android.png" alt="Android" width="71" height="40" />
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/python.png" alt="Python" width="40" height="40" />  
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/tux.png" alt="Linux" width="40" height="48" />                                                                     <img src="https://github.com/fredpena/fredpena/blob/main/icons/docker.png" alt="Docker" width="72" height="40" />                                                                 <img src="https://github.com/fredpena/fredpena/blob/main/icons/debezium.png" alt="Debezium" width="40" height="40" />      
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/rabbitmq.png" alt="Rabbit MQ" width="40" height="45" />                             
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/postgresql.png" alt="postgre SQL" width="40" height="41" />                                                       <img src="https://github.com/fredpena/fredpena/blob/main/icons/mysql.png" alt="MySQL" width="40" height="40" />                                                                   <img src="https://github.com/fredpena/fredpena/blob/main/icons/sql-server.png" alt="SQL Server" width="40" height="40" />      
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />                                                                                                       
+
+  <a href="https://www.oracle.com/java/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke.png" alt="java" width="40" height="72"/>   
+  </a>                                               
+
+
+  <a href="https://vertx.io/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/vertx.png" alt="vert.x" width="40" height="40" />    
+  </a>
+
+  <a href="https://quarkus.io/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="Quarkus" width="40" height="40" />   
+  </a>
+
+  <a href="https://jakarta.ee/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/jakartaee.png" alt="Jakarta EE" width="44" height="40" /> 
+  </a>
+
+  <a href="https://www.android.com/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/android.png" alt="Android" width="71" height="40" />
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/python.png" alt="Python" width="40" height="40" />  
+  </a>
+   
+  <a href="https://www.linux.org/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/tux.png" alt="Linux" width="40" height="48" />  
+  </a>
+  
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/docker.png" alt="Docker" width="72" height="40" />   
+  </a>                                                              
+
+  <a href="https://debezium.io/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/debezium.png" alt="Debezium" width="40" height="40" />
+  </a>        
+ 
+   <a href="https://www.rabbitmq.com/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/rabbitmq.png" alt="Rabbit MQ" width="40" height="45" />
+  </a>                               
+  
+  <a href="https://www.postgresql.org/">
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/postgresql.png" alt="postgre SQL" width="40" height="41" />         
+  </a>   
+
+  <a href="https://www.mysql.com/"> 
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/mysql.png" alt="MySQL" width="40" height="40" />   
+  </a>   
+  
+  <a href="https://www.microsoft.com/en-us/sql-server">                                          
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/sql-server.png" alt="SQL Server" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sap.com/index.html">   
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />    
+  </a>                                                                                                     
  </p>
 
 <!--
