@@ -1,12 +1,12 @@
 ### Hi there <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke-hi.png" alt="java" width="25" height="28" />
 <!--👋-->
 
-I'm a Software Engineer and Java Developer. 
+Cofounder and Software Engineer at [Alphnology](https://alphnology.github.io/)
 
-I❤️☕💻
 
-- 🔭 I’m currently working on [Alphnology](https://alphnology.github.io/)
+- ❤️ Java ☕ and Technology 💻
 - 🌱 I'm currently learning to start my own business
+- ⚡ Teacher by vocation
 - :mailbox: How to reach me [@fred_pena](https://twitter.com/fred_pena)
 
 
@@ -19,7 +19,6 @@ I❤️☕💻
   <a href="https://www.oracle.com/java/">
     <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke.png" alt="java" width="40" height="72"/>   
   </a>                                               
-
 
   <a href="https://vertx.io/">
     <img src="https://github.com/fredpena/fredpena/blob/main/icons/vertx.png" alt="vert.x" width="40" height="40" />    
@@ -77,7 +76,7 @@ I❤️☕💻
 **fredpena/fredpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on [Alphnology](https://alphnology.github.io/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
