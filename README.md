@@ -5,7 +5,7 @@ I'm a Software Engineer and Java Developer.
 
 I❤️☕💻
 
-- 🔭 I’m currently working on [Alphnology](https://alphnology.com/)
+- 🔭 I’m currently working on [Alphnology](https://alphnology.github.io/)
 - 🌱 I'm currently learning to start my own business
 - :mailbox: How to reach me [@fred_pena](https://twitter.com/fred_pena)
 
