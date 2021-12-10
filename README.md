@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke-hi.png" alt="java" width="25" height="28" />
 <!--👋-->
 
-Cofounder and Software Engineer at [Alphnology](https://alphnology.github.io/)
+Cofounder and Software Engineer at Alphnology<!--(https://alphnology.com/)-->
 
 
 - ❤️ Java ☕ and Technology 💻
