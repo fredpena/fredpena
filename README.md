@@ -68,9 +68,19 @@ Cofounder and Software Engineer at Alphnology<!--(https://alphnology.com/)-->
 </a> 
 <br><br>                                                                                                       
 </p>
+<p align="center" ">             
+ 💪 Other knowledge
+</p>
+<p align="center">  
+  
+ <a href="https://www.sap.com/index.html">   
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />    
+ </a>
+</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpena&show_icons=true&locale=en&layout=compact" alt="fredpena" /></p>
 <!--
 <p align="center" ">             
- 💪 Other skills
+ 💪 Other knowledge
 </p>
 <p align="center">  
   
