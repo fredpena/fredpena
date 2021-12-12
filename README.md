@@ -89,6 +89,9 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
  <a href="https://www.sap.com/index.html">   
     <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />    
  </a>
+  <a href="https://www.crystalreports.com/">   
+    <img src="https://github.com/fredpena/fredpena/blob/main/icons/crystal-reports.png" alt="SAP" width="50" height="40" />    
+ </a>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpena&show_icons=true&locale=en&layout=compact" alt="fredpena" />
