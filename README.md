@@ -86,7 +86,7 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
 </p>
 <p align="left">  
   
- <a href="https://www.sap.com/index.html">   
+ <a href="https://www.sap.com/products/business-one.html">   
     <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />    
  </a>
   <a href="https://www.crystalreports.com/">   
