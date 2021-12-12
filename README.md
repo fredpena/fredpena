@@ -11,14 +11,15 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
 
 <h3>Connect with me:</h3>
 <p align="left">
+
   <a href="https://twitter.com/fred_pena" >
-    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fred_pena" height="30" width="40" />
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/twitter.png" alt="fred_pena" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/fantpena">
-    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fantpena" height="30" width="40" />
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/linkedIn.png" alt="fantpena" height="40" width="40" />
   </a>
   <a href="https://t.me/fredpena">
-    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fredpena" height="30" width="40" />
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/telegram.png" alt="fredpena" height="40" width="40" />
 </a>
 </p>
 
