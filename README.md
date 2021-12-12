@@ -1,19 +1,31 @@
-### Hi there <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke-hi.png" alt="java" width="25" height="28" />
-<!--👋-->
+<h2> Hi there 👋, I`m Fred ☕ </h2>
 
-Cofounder and Software Engineer at Alphnology<!--(https://alphnology.com/)-->
+Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
 
 
 - ❤️ Java ☕ and Technology 💻
-- 🌱 I'm currently learning to start my own business
+- 🌱 I'm currently learning more about me!
 - ⚡ Teacher by vocation
-- :mailbox: How to reach me [@fred_pena](https://twitter.com/fred_pena)
+- :mailbox: How to reach me **fred@fredpena.dev**
 
 
-<p align="center" ">             
-  <strong> 🔥 My skills (Ask me about)</strong> 
+<h3>Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/fred_pena" >
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fred_pena" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/fantpena">
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fantpena" height="30" width="40" />
+  </a>
+  <a href="https://t.me/fredpena">
+    <img align="center" src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="fredpena" height="30" width="40" />
+</a>
 </p>
-<p align="center"> 
+
+<p align="left">             
+  <h3> 🔥 My skills (Ask me about)</h3> 
+</p>
+<p align="left"> 
 
 <a href="https://www.oracle.com/java/">
   <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke.png" alt="java" width="40" height="72"/>   
@@ -68,16 +80,18 @@ Cofounder and Software Engineer at Alphnology<!--(https://alphnology.com/)-->
 </a> 
 <br><br>                                                                                                       
 </p>
-<p align="center" ">             
- 💪 Other knowledge
+<p align="left">             
+  <h3>💪 Other skills </h3>
 </p>
-<p align="center">  
+<p align="left">  
   
  <a href="https://www.sap.com/index.html">   
     <img src="https://github.com/fredpena/fredpena/blob/main/icons/sap.png" alt="SAP" width="78" height="45" />    
  </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpena&show_icons=true&locale=en&layout=compact" alt="fredpena" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredpena&show_icons=true&locale=en&layout=compact" alt="fredpena" />
+</p>
 <!--
 <p align="center" ">             
  💪 Other knowledge
