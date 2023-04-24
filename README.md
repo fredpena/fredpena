@@ -32,8 +32,8 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
   <img src="https://github.com/fredpena/fredpena/blob/main/icons/duke.png" alt="java" width="40" height="72"/>   
 </a>       
   
- <a href="https://www.oracle.com/java/">
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/spring-boot.png" alt="java" width="40" height="72"/>   
+ <a href="https://spring.io/">
+  <img src="https://github.com/fredpena/fredpena/blob/main/icons/spring-boot.png" alt="java" width="40" height="40"/>   
 </a>   
 
 <a href="https://vertx.io/">
@@ -44,8 +44,8 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
   <img src="https://github.com/fredpena/fredpena/blob/main/icons/quarkus.png" alt="Quarkus" width="40" height="40" />   
 </a>
   
-  <a href="https://www.oracle.com/java/">
-  <img src="https://github.com/fredpena/fredpena/blob/main/icons/vaadin.png" alt="java" width="40" height="72"/>   
+  <a href="https://vaadin.com/">
+  <img src="https://github.com/fredpena/fredpena/blob/main/icons/vaadin.png" alt="java" width="40" height="40"/>   
 </a>   
 
 <a href="https://jakarta.ee/">
