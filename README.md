@@ -6,7 +6,7 @@ Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
 - ❤️ Java ☕ and Technology 💻
 - 🌱 I'm currently learning more about me!
 - ⚡ Teacher by vocation
-- :mailbox: How to reach me **fred@fredpena.dev**
+- :mailbox: How to reach me **me@fredpena.dev**
 
 
 <h3>Connect with me:</h3>
