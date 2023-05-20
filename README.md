@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I`m Fred ☕ </h2>
 
-Cofounder and Software Engineer at [Alphnology](https://alphnology.com)
+Co-founder of [Alphnology](https://alphnology.com) | Java Developer | Penchant for Python | Learning with every step | I❤️☕🐍💻
 
 
 - ❤️ Java ☕ and Technology 💻
